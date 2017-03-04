@@ -1,4 +1,7 @@
-package com.clebio.tdd;
+package com.clebio.tdd.carrinho;
+
+import com.clebio.tdd.carrinho.CarrinhoDeCompras;
+import com.clebio.tdd.carrinho.Item;
 
 public class CarrinhoDeComprasBuilder {
 	public CarrinhoDeCompras carrinho;

@@ -1,8 +1,12 @@
-package com.clebio.tdd;
+package com.clebio.tdd.carrinho;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import com.clebio.tdd.carrinho.CarrinhoDeCompras;
+import com.clebio.tdd.carrinho.Item;
+import com.clebio.tdd.carrinho.MaiorPreco;
 
 public class MaiorPrecoTest {
 	

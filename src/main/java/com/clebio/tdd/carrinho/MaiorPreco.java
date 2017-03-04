@@ -1,4 +1,4 @@
-package com.clebio.tdd;
+package com.clebio.tdd.carrinho;
 
 public class MaiorPreco {
 
